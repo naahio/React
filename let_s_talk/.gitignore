@@ -1,3 +1,6 @@
+#vscode default
+.history
+.vscode
 
 # dependencies
 /node_modules
